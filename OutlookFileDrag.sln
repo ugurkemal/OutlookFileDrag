@@ -12,25 +12,60 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "OpenACOutlookFileDragDrop", "OpenACOutlookFileDragDrop\OpenACOutlookFileDragDrop.wixproj", "{5CCD5D8F-774B-41BB-BA95-7B115B03C420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x86 = CD_ROM|x86
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x86 = DVD-5|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x86 = SingleImage|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.CD_ROM|x86.ActiveCfg = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.CD_ROM|x86.Build.0 = Debug|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Debug|x86.Build.0 = Debug|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.DVD-5|x86.ActiveCfg = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.DVD-5|x86.Build.0 = Debug|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Release|x86.ActiveCfg = Release|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.Release|x86.Build.0 = Release|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
 		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.SingleImage|x86.ActiveCfg = Debug|Any CPU
+		{88E6522A-C68B-42C8-8B5E-9C959BA6C415}.SingleImage|x86.Build.0 = Debug|Any CPU
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.CD_ROM|Any CPU.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.CD_ROM|Any CPU.Build.0 = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.CD_ROM|x86.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.CD_ROM|x86.Build.0 = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Debug|x86.ActiveCfg = Debug|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Debug|x86.Build.0 = Debug|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.DVD-5|Any CPU.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.DVD-5|Any CPU.Build.0 = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.DVD-5|x86.ActiveCfg = Debug|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.DVD-5|x86.Build.0 = Debug|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Release|Any CPU.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Release|x86.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.Release|x86.Build.0 = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.SingleImage|Any CPU.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.SingleImage|Any CPU.Build.0 = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.SingleImage|x86.ActiveCfg = Release|x86
+		{5CCD5D8F-774B-41BB-BA95-7B115B03C420}.SingleImage|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
