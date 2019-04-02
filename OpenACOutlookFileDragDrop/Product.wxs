@@ -25,49 +25,49 @@
     </CustomTable>
     <Directory Id="TARGETDIR" Name="SourceDir">
       <Component Id="C__12FE3AC54ED17E0AB1007324ABFD58D1" Guid="{129BC93E-F70B-3AFD-FDDD-B51DBFF3BB49}" Win64="yes">
-        <File Id="_12FE3AC54ED17E0AB1007324ABFD58D1" Name="Microsoft.VisualStudio.Tools.Applications.Runtime.dll" KeyPath="yes" ShortName="MICROS~1.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll" />
+        <File Id="_12FE3AC54ED17E0AB1007324ABFD58D1" Name="Microsoft.VisualStudio.Tools.Applications.Runtime.dll" KeyPath="yes" ShortName="MICROS~1.DLL" Assembly=".net" AssemblyManifest="_12FE3AC54ED17E0AB1007324ABFD58D1" AssemblyApplication="_12FE3AC54ED17E0AB1007324ABFD58D1" DiskId="1" Source="\File\_12FE3AC54ED17E0AB1007324ABFD58D1" />
       </Component>
       <Component Id="C__133D4E0B8AD91071625356F7F9F22C66" Guid="{6ED78760-A987-B5F4-96CA-59D20EFD19B3}" Win64="yes">
-        <File Id="_133D4E0B8AD91071625356F7F9F22C66" Name="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" KeyPath="yes" ShortName="MICROS~2.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" />
+        <File Id="_133D4E0B8AD91071625356F7F9F22C66" Name="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" KeyPath="yes" ShortName="MICROS~2.DLL" Assembly=".net" AssemblyManifest="_133D4E0B8AD91071625356F7F9F22C66" AssemblyApplication="_133D4E0B8AD91071625356F7F9F22C66" DiskId="1" Source="\File\_133D4E0B8AD91071625356F7F9F22C66" />
       </Component>
       <Component Id="C__15F0BD9071B5889215577FD20EC63766" Guid="{9368004B-356D-7CA8-34F1-315C59C77DCC}" Win64="yes">
-        <File Id="_15F0BD9071B5889215577FD20EC63766" Name="EasyHook.dll" KeyPath="yes" ShortName="EASYHOOK.DLL" Assembly=".net" Source="..\OutlookFileDrag\bin\release\EasyHook.dll" />
+        <File Id="_15F0BD9071B5889215577FD20EC63766" Name="EasyHook.dll" KeyPath="yes" ShortName="EASYHOOK.DLL" Assembly=".net" AssemblyManifest="_15F0BD9071B5889215577FD20EC63766" AssemblyApplication="_15F0BD9071B5889215577FD20EC63766" DiskId="1" Source="\File\_15F0BD9071B5889215577FD20EC63766" />
       </Component>
       <Component Id="C__3DBBABF7C43171A6F7B4D8D682699556" Guid="{0C16C33E-ED8B-046A-20DF-DFB63A6F01BC}" Win64="yes">
-        <File Id="_3DBBABF7C43171A6F7B4D8D682699556" Name="Microsoft.Office.Tools.Outlook.dll" KeyPath="yes" ShortName="MICROS~3.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.Outlook.dll" />
+        <File Id="_3DBBABF7C43171A6F7B4D8D682699556" Name="Microsoft.Office.Tools.Outlook.dll" KeyPath="yes" ShortName="MICROS~3.DLL" Assembly=".net" AssemblyManifest="_3DBBABF7C43171A6F7B4D8D682699556" AssemblyApplication="_3DBBABF7C43171A6F7B4D8D682699556" DiskId="1" Source="\File\_3DBBABF7C43171A6F7B4D8D682699556" />
       </Component>
       <Component Id="C__5575AAAA0CAC3763D8DCDDD642FBD25F" Guid="{98C95229-C0B7-4AF8-85D3-5F508F17F70A}" Win64="yes">
-        <File Id="_5575AAAA0CAC3763D8DCDDD642FBD25F" Name="Microsoft.Office.Tools.dll" KeyPath="yes" ShortName="MICROS~4.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.dll" />
+        <File Id="_5575AAAA0CAC3763D8DCDDD642FBD25F" Name="Microsoft.Office.Tools.dll" KeyPath="yes" ShortName="MICROS~4.DLL" Assembly=".net" AssemblyManifest="_5575AAAA0CAC3763D8DCDDD642FBD25F" AssemblyApplication="_5575AAAA0CAC3763D8DCDDD642FBD25F" DiskId="1" Source="\File\_5575AAAA0CAC3763D8DCDDD642FBD25F" />
       </Component>
       <Component Id="C__591351D571FEB540A92347F0F74B55CE" Guid="{AE962528-8658-087E-B647-4CEF288A895E}" Win64="yes">
         <File Id="_591351D571FEB540A92347F0F74B55CE" Name="stdole.dll" KeyPath="yes" ShortName="STDOLE.DLL" Assembly=".net" AssemblyManifest="_591351D571FEB540A92347F0F74B55CE" AssemblyApplication="_591351D571FEB540A92347F0F74B55CE" DiskId="1" Source="\File\_591351D571FEB540A92347F0F74B55CE" />
       </Component>
       <Component Id="C__9B3B11113C57483FCBDDB37CB3ED5F37" Guid="{B56AAADE-93DF-0ACA-F56C-196DC9962D33}" Win64="yes">
-        <File Id="_9B3B11113C57483FCBDDB37CB3ED5F37" Name="Microsoft.Office.Tools.Common.dll" KeyPath="yes" ShortName="MICROS~5.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.Common.dll" />
+        <File Id="_9B3B11113C57483FCBDDB37CB3ED5F37" Name="Microsoft.Office.Tools.Common.dll" KeyPath="yes" ShortName="MICROS~5.DLL" Assembly=".net" AssemblyManifest="_9B3B11113C57483FCBDDB37CB3ED5F37" AssemblyApplication="_9B3B11113C57483FCBDDB37CB3ED5F37" DiskId="1" Source="\File\_9B3B11113C57483FCBDDB37CB3ED5F37" />
       </Component>
       <Component Id="C__9CE773A8FA4242D096608C6597B170E4" Guid="{A2BFB840-BBC2-7602-2062-B9FC2A55B040}" Win64="yes">
-        <File Id="_9CE773A8FA4242D096608C6597B170E4" Name="OutlookFileDrag.dll.manifest" KeyPath="yes" ShortName="OUTLOO~1.MAN" DiskId="1" Source="..\OutlookFileDrag\bin\release\OutlookFileDrag.dll.manifest" />
+        <File Id="_9CE773A8FA4242D096608C6597B170E4" Name="OutlookFileDrag.dll.manifest" KeyPath="yes" ShortName="OUTLOO~1.MAN" DiskId="1" Source="\File\_9CE773A8FA4242D096608C6597B170E4" />
       </Component>
       <Component Id="C__9F1635A8DEF84079B9675D027C0460A4" Guid="{91F0EF4A-F4AE-3ACE-3D76-2C841A0E3A13}" Win64="yes">
         <File Id="_9F1635A8DEF84079B9675D027C0460A4" Name="License.rtf" KeyPath="yes" ShortName="LICENSE.RTF" DiskId="1" Source="\File\_9F1635A8DEF84079B9675D027C0460A4" />
       </Component>
       <Component Id="C__BB365CE8FF8B85A3589349A35DAB0785" Guid="{346697DA-A122-58FB-7EDF-3502B0E03685}" Win64="yes">
-        <File Id="_BB365CE8FF8B85A3589349A35DAB0785" Name="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" KeyPath="yes" ShortName="MICROS~6.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll" />
+        <File Id="_BB365CE8FF8B85A3589349A35DAB0785" Name="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" KeyPath="yes" ShortName="MICROS~6.DLL" Assembly=".net" AssemblyManifest="_BB365CE8FF8B85A3589349A35DAB0785" AssemblyApplication="_BB365CE8FF8B85A3589349A35DAB0785" DiskId="1" Source="\File\_BB365CE8FF8B85A3589349A35DAB0785" />
       </Component>
       <Component Id="C__C3161A936F4192497A0972C3EC781BF6" Guid="{5713AE5D-5F05-A227-6769-2080D773CB04}" Win64="yes">
-        <File Id="_C3161A936F4192497A0972C3EC781BF6" Name="Microsoft.Office.Tools.v4.0.Framework.dll" KeyPath="yes" ShortName="MICROS~7.DLL" Source="..\OutlookFileDrag\bin\release\Microsoft.Office.Tools.v4.0.Framework.dll" />
+        <File Id="_C3161A936F4192497A0972C3EC781BF6" Name="Microsoft.Office.Tools.v4.0.Framework.dll" KeyPath="yes" ShortName="MICROS~7.DLL" Assembly=".net" AssemblyManifest="_C3161A936F4192497A0972C3EC781BF6" AssemblyApplication="_C3161A936F4192497A0972C3EC781BF6" DiskId="1" Source="\File\_C3161A936F4192497A0972C3EC781BF6" />
       </Component>
       <Component Id="C__CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" Guid="{67F0772B-7C35-4331-ACF0-1D4069E4D1D9}" Win64="yes">
-        <File Id="_CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" Name="log4net.dll" KeyPath="yes" ShortName="LOG4NET.DLL" Source="..\OutlookFileDrag\bin\release\log4net.dll" />
+        <File Id="_CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" Name="log4net.dll" KeyPath="yes" ShortName="LOG4NET.DLL" Assembly=".net" AssemblyManifest="_CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" AssemblyApplication="_CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" DiskId="1" Source="\File\_CE28E7CBCA9C5EDB3BD3A2F1F2116DF9" />
       </Component>
       <Component Id="C__DB2A43345F9440DD84405C790D1EDDA2" Guid="{BB03413E-D5B5-BDC7-C240-3A35FF706648}" Win64="yes">
-        <File Id="_DB2A43345F9440DD84405C790D1EDDA2" Name="EasyHook64.dll" KeyPath="yes" ShortName="EASYHO~1.DLL" DiskId="1" Source="..\OutlookFileDrag\bin\release\EasyHook64.dll" />
+        <File Id="_DB2A43345F9440DD84405C790D1EDDA2" Name="EasyHook64.dll" KeyPath="yes" ShortName="EASYHO~1.DLL" DiskId="1" Source="\File\_DB2A43345F9440DD84405C790D1EDDA2" />
       </Component>
       <Component Id="C__E81182AD22C040558214805DBCE4ACCA" Guid="{186041BA-6CD9-87B5-C346-8140F5A12172}" Win64="yes">
-        <File Id="_E81182AD22C040558214805DBCE4ACCA" Name="OutlookFileDrag.vsto" KeyPath="yes" ShortName="OUTLOO~1.VST" DiskId="1" Source="..\OutlookFileDrag\bin\release\OutlookFileDrag.vsto" />
+        <File Id="_E81182AD22C040558214805DBCE4ACCA" Name="OutlookFileDrag.vsto" KeyPath="yes" ShortName="OUTLOO~1.VST" DiskId="1" Source="\File\_E81182AD22C040558214805DBCE4ACCA" />
       </Component>
       <Component Id="C__FDD7226F564A40639B9655DB42455355" Guid="{DB96B5DE-44A2-02E0-5530-201F8F1249EC}" Win64="yes">
-        <File Id="_FDD7226F564A40639B9655DB42455355" Name="EasyHook32.dll" KeyPath="yes" ShortName="EASYHO~2.DLL" DiskId="1" Source="..\OutlookFileDrag\bin\release\EasyHook32.dll" />
+        <File Id="_FDD7226F564A40639B9655DB42455355" Name="EasyHook32.dll" KeyPath="yes" ShortName="EASYHO~2.DLL" DiskId="1" Source="\File\_FDD7226F564A40639B9655DB42455355" />
       </Component>
       <Component Id="C__FA680E6DBA8248D891731BA238E0099C" Guid="{C25AC38E-6608-E1DA-69E8-5DCBA1CB3DB0}" Win64="yes">
         <RegistryKey Id="_FA680E6DBA8248D891731BA238E0099C" ForceDeleteOnUninstall="yes" Key="Software\WOW6432Node\Microsoft\Office\Outlook\Addins\OutlookFileDrag" Root="HKLM" />
@@ -100,13 +100,13 @@
         <RegistryValue Id="_FE433651CB1C4B27B454859B408DC466" Root="HKLM" Key="Software\Microsoft\Office\Outlook\Addins\OutlookFileDrag" Name="Manifest" Value="file:///[TARGETDIR]OutlookFileDrag.vsto|vstolocal" Type="string" KeyPath="yes" />
       </Component>
       <Component Id="C__6CBAF9725AA756A60E4D94FC50E85A0E" Guid="{666D14BE-9D83-69F5-C91F-4DBD03D9E735}" Win64="yes">
-        <File Id="_6CBAF9725AA756A60E4D94FC50E85A0E" Name="OutlookFileDrag.dll.config" KeyPath="yes" ShortName="OUTLOO~1.CON" DiskId="1" Source="..\OutlookFileDrag\bin\release\OutlookFileDrag.dll.config" />
+        <File Id="_6CBAF9725AA756A60E4D94FC50E85A0E" Name="OutlookFileDrag.dll.config" KeyPath="yes" ShortName="OUTLOO~1.CON" DiskId="1" Source="\File\_6CBAF9725AA756A60E4D94FC50E85A0E" />
       </Component>
       <Component Id="C__050D012AEDACBDAFD5DC81E126DA3B76" Guid="{2088D192-CE67-036F-E1F2-360CF2ECDC94}" Win64="yes">
-        <File Id="_050D012AEDACBDAFD5DC81E126DA3B76" Name="OutlookFileDrag.dll" KeyPath="yes" ShortName="OUTLOO~1.DLL" Source="..\OutlookFileDrag\bin\release\OutlookFileDrag.dll" />
+        <File Id="_050D012AEDACBDAFD5DC81E126DA3B76" Name="OutlookFileDrag.dll" KeyPath="yes" ShortName="OUTLOO~1.DLL" Assembly=".net" AssemblyManifest="_050D012AEDACBDAFD5DC81E126DA3B76" AssemblyApplication="_050D012AEDACBDAFD5DC81E126DA3B76" DiskId="1" Source="\File\_050D012AEDACBDAFD5DC81E126DA3B76" />
       </Component>
       <Component Id="C__0F937F9BD982EE12F27F49E89A5726C5" Guid="{701011BD-D883-2D36-DB92-0967275F5FDA}" Win64="yes">
-        <File Id="_0F937F9BD982EE12F27F49E89A5726C5" Name="OutlookFileDrag.pdb" KeyPath="yes" ShortName="OUTLOO~1.PDB" DiskId="1" Source="..\OutlookFileDrag\bin\release\OutlookFileDrag.pdb" />
+        <File Id="_0F937F9BD982EE12F27F49E89A5726C5" Name="OutlookFileDrag.pdb" KeyPath="yes" ShortName="OUTLOO~1.PDB" DiskId="1" Source="\File\_0F937F9BD982EE12F27F49E89A5726C5" />
       </Component>
       <Directory Id="ProgramMenuFolder" ShortSourceName="USER'S~1" SourceName="User's Programs Menu" />
       <Directory Id="DesktopFolder" ShortSourceName="USER'S~2" SourceName="User's Desktop" />
